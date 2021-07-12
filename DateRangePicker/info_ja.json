@@ -1,0 +1,18 @@
+﻿{
+	"Title" : "日付範囲ピッカー",
+
+	"Description" : "日付範囲ピッカー\nアイコンはxnimrodxさんからです。",
+
+	"Category" : "Addon By Sam.H",
+
+	"Features" :
+		[
+			"INSERT HERE ...<A list of features that the template provides>... - DNL"
+		],
+
+	"Optimized" :
+		[
+			"デクストップ", "タプレット", "モバイル"
+
+		]
+}
