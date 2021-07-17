@@ -7,7 +7,7 @@ It is not for production use. The addon is used at your own risk. I cannot guara
 
 <h2>Language Support(Using Google Translate API)</h2>
 It supports English, French, German, Italian, Dutch, Spanish, Swedish, Japanese, Brazilian-Portuguese, Korean and Simplified Chinese(At least for the webviewer).
-
+<br><br>
 You are welcome to send me the translation of other languages. I will update it as soon as possible.
 
 <h2>FileMaker Version</h2>
@@ -15,9 +15,9 @@ It supports Claris FileMaker > 19.3
 
 <h2>Installation</h2>
 Please copy the add-on folder to AddonModules
-
+<br><br>
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
-
+<br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
 <h2>Contact</h2>
@@ -29,16 +29,16 @@ Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/
 本番用ではありません。アドオンは自己責任でご利用ください。バグがないことは保証できません。
 
 <h2>言語</h2>
-日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。(WebViewerのもの)
+日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。(WebViewerのみ)
 
 <h2>FileMakerバーション</h2>
 FileMaker　19.3以上サポートされています。
 
 <h2>インストール</h2>
 アドオンフォルダをAddonModulesにコピーしてください。
-
+<br><br>
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
-
+<br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
 <h2>連絡</h2>
