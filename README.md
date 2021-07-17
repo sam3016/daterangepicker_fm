@@ -23,6 +23,9 @@ Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 <h2>Contact</h2>
 If there are any issue you found, please contact me through GitHub or email me(samhui007@protonmail.com).
 
+<h2>Current Issues</h2>
+It is not working in Swedish and may be other languages as well.
+
 <h2>紹介</h2>
 Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/cra-template-fmw) とreact-datepickerで作られたツールです。
 
