@@ -849,7 +849,7 @@
 <DynamicTemplateString>
 	<StringID>com.fmi.layoutobject.text.934FE8494E35BF9BCECA9FF7BC0CAF8E</StringID>
 	<SourceText>Date Range Picker Configurator</SourceText>
-	<TargetText>Date Range Picker Configurator</TargetText>
+	<TargetText>Konfigurator für die Datumsbereichsauswahl</TargetText>
 	<Comment>com.fmi.layoutobject.text.Date Range Picker Configurator</Comment>
 </DynamicTemplateString>
 

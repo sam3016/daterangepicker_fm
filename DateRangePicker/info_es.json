@@ -1,18 +1,1 @@
-﻿{
-	"Title" : "DateRangePicker",
-
-	"Description" : "*** DESCRIPTION MISSING *** - DNL",
-
-	"Category" : "___...___",
-
-	"Features" :
-		[
-			"INSERT HERE ...<A list of features that the template provides>... - DNL"
-		],
-
-	"Optimized" :
-		[
-			"Desktop", "Tablet", "Mobile"
-
-		]
-}
+﻿{	"Title" : "SelectorDeIntervaloDeFechas",	"Description" : "Permite elegir la fecha entre dos fechas.\rIconos creados por xnimrodx",	"Category" : "Complemento de Sam.H",	"Features" : 	[		"INSERTAR AQUÍ ... <A list of features that the template provides>... - DNL</a>"	],	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]}

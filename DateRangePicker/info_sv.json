@@ -1,18 +1,1 @@
-﻿{
-	"Title" : "DateRangePicker",
-
-	"Description" : "*** DESCRIPTION MISSING *** - DNL",
-
-	"Category" : "___...___",
-
-	"Features" :
-		[
-			"INSERT HERE ...<A list of features that the template provides>... - DNL"
-		],
-
-	"Optimized" :
-		[
-			"Desktop", "Tablet", "Mobile"
-
-		]
-}
+﻿{	"Title" : "Datumintervallvaeljare",	"Description" : "Tillåter datumval mellan två datum.\rIkoner gjorda av xnimrodx",	"Category" : "Addon av Sam.H",	"Features" : 	[		"INSÄTTA HÄR ... <A list of features that the template provides>... - DNL</a>"	],	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]}

@@ -1,18 +1,10 @@
 ﻿{
 	"Title" : "DateRangePicker",
-
-	"Description" : "*** DESCRIPTION MISSING *** - DNL",
-
-	"Category" : "___...___",
-
-	"Features" :
-		[
-			"INSERT HERE ...<A list of features that the template provides>... - DNL"
-		],
-
-	"Optimized" :
-		[
-			"Desktop", "Tablet", "Mobile"
-
-		]
+	"Description" : "允许在两个日期之间选择日期。\rxnimrodx制作的图标",
+	"Category" : "山姆.H的插件",
+	"Features" : 
+	[
+		"在此处插入 ... <A list of features that the template provides>... - DNL</a>"
+	],
+	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
 }

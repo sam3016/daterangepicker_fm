@@ -1,18 +1,1 @@
-﻿{
-	"Title" : "DateRangePicker",
-
-	"Description" : "*** DESCRIPTION MISSING *** - DNL",
-
-	"Category" : "___...___",
-
-	"Features" :
-		[
-			"INSERT HERE ...<A list of features that the template provides>... - DNL"
-		],
-
-	"Optimized" :
-		[
-			"Desktop", "Tablet", "Mobile"
-
-		]
-}
+﻿{	"Title" : "SelecteurDePlageDeDates",	"Description" : "Permet de choisir la date entre deux dates.\rIcônes créées par xnimrodx",	"Category" : "Addon par Sam.H",	"Features" : 	[		"INSÉRER ICI ... <A list of features that the template provides>... - DNL</a>"	],	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]}

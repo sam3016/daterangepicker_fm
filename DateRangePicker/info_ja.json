@@ -1,18 +1,10 @@
 ﻿{
 	"Title" : "日付範囲ピッカー",
-
-	"Description" : "日付範囲ピッカー\nアイコンはxnimrodxさんからです。",
-
-	"Category" : "Addon By Sam.H",
-
-	"Features" :
-		[
-			"INSERT HERE ...<A list of features that the template provides>... - DNL"
-		],
-
-	"Optimized" :
-		[
-			"デクストップ", "タプレット", "モバイル"
-
-		]
+	"Description" : "2つの日付の間で日付を選択できます。\rxnimrodxによって作成されたアイコン",
+	"Category" : "Sam.Hのアドオン",
+	"Features" : 
+	[
+		"ここに挿入<A list of features that the template provides>......- DNL</a>"
+	],
+	"Optimized" : [ "デクストップ", "タプレット", "モバイル" ]
 }
