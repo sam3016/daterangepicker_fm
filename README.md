@@ -22,6 +22,7 @@ Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
 <h2>Notice</h2>
 Please do not change the value of the value list, it may not support those values and display an error.
+All date-dns formats are supported. Please check https://date-fns.org/docs/format
 
 <h2>History</h2>
 ver 0.1.1
