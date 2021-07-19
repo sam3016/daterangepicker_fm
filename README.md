@@ -1,4 +1,4 @@
-<h1>Date Range Picker(v0.1)</h1>
+<h1>Date Range Picker(v0.1.1)</h1>
 
 <h2>Introduction</h2>
 It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-color
@@ -20,8 +20,16 @@ Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModul
 <br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
+<h2>Notice</h2>
+Please do not change the value of the value list, it may not support those values and display an error.
+
+<h2>History</h2>
+ver 0.1.1
+<br><br>
+Fixing the issues of blank page of configurator of all languages other than English.
+
 <h2>Contact</h2>
-If there are any issue you found, please contact me through GitHub or email me(samhui007@protonmail.com).
+If there are any issue you found, please contact me through GitHub or Twitter.
 
 <h2>Current Issues</h2>
 It is not working in Swedish and may be other languages as well.
@@ -44,5 +52,12 @@ Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModul
 <br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
+<h2>注意事項</h2>
+値一覧の値を変更しないでください。変更するとエラーが出るかもしれません。
+
+<h2>更新履歴</h2>
+ver 0.1.1
+英語以外のコンフィギュレーターページが空白になる。
+
 <h2>連絡</h2>
-もし何か問題あればGitHubやメール（samhui007@protonmail.com）まで連絡してください。なるべくはやめに対応いたします。
+もし何か問題あればGitHubやTwitterまで連絡してください。なるべくはやめに対応いたします。
